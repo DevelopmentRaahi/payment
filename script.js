@@ -20,7 +20,7 @@ document.getElementById('paymentForm').onsubmit = function(e) {
                 document.getElementById('successMessage').style.display = 'block';
                 // Redirect to the success page after a brief delay
                 setTimeout(function(){
-                    window.location.href = "https://new.html/"; // Replace with your success URL
+                    window.location.href = "https://developmentraahi.github.io/payment/"; // Replace with your success URL
                 }, 2000);
             },
             "prefill": {
