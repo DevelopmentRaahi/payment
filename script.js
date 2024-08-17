@@ -10,8 +10,8 @@ document.getElementById('paymentForm').onsubmit = function(e) {
         }
 
         const options = {
-            "key": "rzp_live_XnzgR8AoEu1HfA", // Replace with your Razorpay Key ID
-            "amount": amount * 100, // Amount in paise
+            "key": "rzp_live_XnzgR8AoEu1HfA", 
+            "amount": amount * 100, 
             "currency": "INR",
             "name": "BRAND PVT LIMITED ",
             "description": "Test Transaction",
