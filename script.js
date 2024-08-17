@@ -10,7 +10,7 @@ document.getElementById('paymentForm').onsubmit = function(e) {
         }
 
         const options = {
-            "key": "rzp_live_XnzgR8AoEu1HfA", 
+            "key": "rzp_test_Q01ThIkK4vWx71", 
             "amount": amount * 100, 
             "currency": "INR",
             "name": "BRAND PVT LIMITED ",
